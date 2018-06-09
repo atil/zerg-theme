@@ -1,7 +1,7 @@
 {
-    "name": "less-rusty",
-    "displayName": "less-rusty",
-    "description": "colorscheme for rust. based on https://studiostyl.es/schemes/less",
+    "name": "rustless",
+    "displayName": "rustless",
+    "description": "colorscheme for rust.",
     "version": "0.0.1",
     "publisher": "pingFromHeaven",
     "engines": {
