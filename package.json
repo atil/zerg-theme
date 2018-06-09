@@ -1,0 +1,22 @@
+{
+    "name": "less-rusty",
+    "displayName": "less-rusty",
+    "description": "colorscheme for rust. based on https://studiostyl.es/schemes/less",
+    "version": "0.0.1",
+    "publisher": "pingFromHeaven",
+    "engines": {
+        "vscode": "^1.23.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "less",
+                "uiTheme": "vs-dark",
+                "path": "./themes/less-color-theme.json"
+            }
+        ]
+    }
+}
