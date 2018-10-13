@@ -1,9 +1,13 @@
 {
-    "name": "rustless",
-    "displayName": "rustless",
+    "name": "zerg",
+    "displayName": "zerg",
     "description": "colorscheme for rust.",
     "version": "0.0.1",
-    "publisher": "pingFromHeaven",
+    "publisher": "pingfromheaven",
+	"repository": {
+        "type": "git",
+        "url": "https://github.com/atil/zerg-theme.git"
+    },
     "engines": {
         "vscode": "^1.23.0"
     },
@@ -13,9 +17,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "less",
+                "label": "zerg",
                 "uiTheme": "vs-dark",
-                "path": "./themes/less-color-theme.json"
+                "path": "./themes/zerg-color-theme.json"
             }
         ]
     }
