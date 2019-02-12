@@ -183,7 +183,8 @@
 				"support.other.namespace.php",
 				"markup.changed.git_gutter",
 				"support.type.sys-types",
-				"returntype.rust"
+				"returntype.rust",
+				"storage.class.std.rust"
 			],
 			"settings": {
 				"foreground": "#AC5B4D"
