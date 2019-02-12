@@ -84,7 +84,8 @@
 				"keyword",
 				"constant.language",
 				"support.constant",
-				"storage.type.rust"
+				"storage.type.rust",
+				"meta.attribute.rust"
 			],
 			"settings": {
 				"foreground": "#669199"
