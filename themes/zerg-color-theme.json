@@ -36,6 +36,16 @@
 			}
 		},
 		{
+			"name": "Constants",
+			"scope": [
+				"constant.other.caps.rust",
+			],
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#D6BE8C"
+			}
+		},
+		{
 			"name": "Colors",
 			"scope": [
 				"constant.other.color"
@@ -85,6 +95,8 @@
 				"constant.language",
 				"support.constant",
 				"storage.type.rust",
+				"storage.modifier.mut.rust",
+				"variable.language.self.rust",
 				"meta.attribute.rust"
 			],
 			"settings": {
